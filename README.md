@@ -1,116 +1,35 @@
-￼ Full574ck W3b D3v3l0p3r
-# ￼ Profile Views
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=happymorning505&color=blue)
 
-## ￼ Objective:
-As a passionate and dedicated fullstack web developer, my objective is to create innovative, user-friendly, and scalable web applications. I am skilled in both frontend and backend technologies, with a strong focus on delivering high-quality code and exceptional user experiences.
 
----
-
-## 🛠️ Skills:
-
-### Languages:
-<table>
-    <tr>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://camo.githubusercontent.com/de09bba464602abc95ce76dd3b5ec1e16fe96c1d7ef69bdc31e177006a40f2e1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667&quot; alt="C++" height="70" width="70"/><br/>C++
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667&quot; alt="JavaScript" height="70" width="70"/><br/>JavaScript
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667&quot; alt="TypeScript" height="70" width="70"/><br/>TypeScript
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=php&quot; alt="PHP" height="70" width="70"/><br/>PHP
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667&quot; alt="Python" height="70" width="70"/><br/>Python
-        </td>
-    </tr>
-</table>
-
-### Frontend:
-<table>
-    <tr>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=html&quot; alt="HTML5" height="70" width="70"/><br/>HTML5
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=css&quot; alt="CSS3" height="70" width="70"/><br/>CSS3
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=sass&quot; alt="Sass" height="70" width="70"/><br/>Sass
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=tailwind&quot; alt="TailwindCSS" height="70" width="70"/><br/>TailwindCSS
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=bootstrap&quot; alt="Bootstrap" height="70" width="70"/><br/>Bootstrap
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667&quot; alt="React" height="70" width="70"/><br/>React
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=next&quot; alt="Next.js" height="70" width="70"/><br/>Next.js
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=vue&quot; alt="Vue.js" height="70" width="70"/><br/>Vue.js
-        </td>
-    </tr>
-</table>
-
-### Backend:
-<table>
-    <tr>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=nodejs&quot; alt="Node.js" height="70" width="70"/><br/>Node.js
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=express&quot; alt="Express.js" height="70" width="70"/><br/>Express.js
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=fastapi&quot; alt="FastAPI" height="70" width="70"/><br/>FastAPI
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=laravel&quot; alt="Laravel" height="70" width="70"/><br/>Laravel
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=nest&quot; alt="NestJS" height="70" width="70"/><br/>NestJS
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://camo.githubusercontent.com/e65f8a131aec32c8038012cbd89c65dbce110c66227bef4bf0b0e23ffe0f3ad8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667&quot; alt="Django" height="70" width="70"/><br/>Django
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=flask&quot; alt="Flask" height="70" width="70"/><br/>Flask
-        </td>
-    </tr>
-</table>
-
-### Databases:
-<table>
-    <tr>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667&quot; alt="MySQL" height="70" width="70"/><br/>MySQL
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=postgresql&quot; alt="PostgreSQL" height="70" width="70"/><br/>PostgreSQL
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=mongodb&quot; alt="MongoDB" height="70" width="70"/><br/>MongoDB
-        </td>
-        <td align="center" style="border: 1px solid black; padding: 10px;">
-            <img src="https://skillicons.dev/icons?i=redis&quot; alt="Redis" height="70" width="70"/><br/>Redis
-        </td>
-    </tr>
-</table>
-
----
-
-## ￼ Contact:
-You can reach me at [cupid.jack505@gmail.com](mailto:cupid.jack505@gmail.com)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyaurora&layout=compact)
